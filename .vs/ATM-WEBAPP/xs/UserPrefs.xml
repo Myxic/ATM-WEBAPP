@@ -1,5 +1,6 @@
-﻿<Properties>
+﻿<Properties StartupConfiguration="{4D34B912-3764-4612-8CC6-0DF35A86635A}|Default">
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.ItemProperties.ATM.BLL FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.ATM.DAL FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.ATM.MVC FirstBuild="True" PreferredExecutionTarget="/Applications/Firefox.app" />
 </Properties>

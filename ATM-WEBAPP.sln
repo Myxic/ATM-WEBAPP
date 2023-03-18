@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ATM.DAL", "ATM.DAL\ATM.DAL.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ATM.BLL", "ATM.BLL\ATM.BLL.csproj", "{C06CEA91-5B79-4F68-95CB-168FACB767AF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ATM.MVC", "ATM.MVC\ATM.MVC.csproj", "{4D34B912-3764-4612-8CC6-0DF35A86635A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{C06CEA91-5B79-4F68-95CB-168FACB767AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C06CEA91-5B79-4F68-95CB-168FACB767AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C06CEA91-5B79-4F68-95CB-168FACB767AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D34B912-3764-4612-8CC6-0DF35A86635A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D34B912-3764-4612-8CC6-0DF35A86635A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D34B912-3764-4612-8CC6-0DF35A86635A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D34B912-3764-4612-8CC6-0DF35A86635A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
