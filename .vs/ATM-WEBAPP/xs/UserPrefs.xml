@@ -1,4 +1,5 @@
 ﻿<Properties>
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ATM.BLL FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.ATM.DAL FirstBuild="True" />
 </Properties>
